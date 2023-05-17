@@ -1,0 +1,21 @@
+# Site settings
+title: My GitHub User Site
+description: Welcome to my personal GitHub user site!
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Navigation links
+nav_links:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Projects
+    url: /projects
+  - name: Contact
+    url: /contact
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
